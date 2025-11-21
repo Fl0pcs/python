@@ -4,5 +4,5 @@
 number = int(input("number: "))
 if number % 2 == 0:
     print("Number on paaris.")
-else:
+else:   
      print("Number on paaritu.")
